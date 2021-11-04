@@ -1,0 +1,27 @@
+Package: ggsegBrodmann
+Title: brodmann datasets for the ggseg-plotting tool
+Version: 0.0.1
+Authors@R: c(person("Athanasia Mo", "Mowinckel", 
+                    email = "a.m.mowinckel@psykologi.uio.no", 
+                    role = c("aut", "cre"),
+                    comment = c(ORCID = "0000-0002-5756-0223")))
+Description: This is a support package for the ggseg, and ggseg3d packages.
+    It contains the brodmann area atlases to plot using functions from those two packages.
+License: CC BY 4.0
+Encoding: UTF-8
+RoxygenNote: 7.1.1
+Depends: 
+    R (>= 3.5.0),
+    ggseg,
+    ggseg3d
+LazyData: true
+LazyDataCompression: xz
+Suggests:
+    ggplot2,
+    tidyr,
+    knitr,
+    rmarkdown,
+    covr,
+    testthat (>= 2.1.0),
+    devtools
+VignetteBuilder: knitr
