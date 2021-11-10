@@ -4,6 +4,10 @@
 # ggsegBrodmann <img src='man/figures/logo.png' align="right" height="138.5" />
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/ggseg/ggsegBrodmann/workflows/R-CMD-check/badge.svg)](https://github.com/ggseg/ggsegBrodmann/actions)
+[![DOI](https://zenodo.org/badge/424723872.svg)](https://zenodo.org/badge/latestdoi/424723872)
+
 <!-- badges: end -->
 
 This package contains dataset for plotting the

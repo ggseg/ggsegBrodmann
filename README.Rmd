@@ -19,6 +19,8 @@ knitr::opts_chunk$set(
 
 <!-- badges: start -->
 [![R-CMD-check](https://github.com/ggseg/ggsegBrodmann/workflows/R-CMD-check/badge.svg)](https://github.com/ggseg/ggsegBrodmann/actions)
+[![DOI](https://zenodo.org/badge/424723872.svg)](https://zenodo.org/badge/latestdoi/424723872)
+
 <!-- badges: end -->
 
 This package contains dataset for plotting the [brodmann](https://digital.zbmed.de/zbmed/id/554966?) atlas ggseg and ggseg3d, based on the supplementary materials of Pijnenburg et al., NeuroImage, 239, 2021 [DOI](https://doi.org/10.1016/j.neuroimage.2021.118274); Version 1; 15-01-2021. 
